@@ -81,6 +81,20 @@ Task-05: Traffic Accident Analysis & Visualization (US Accident Dataset)
 - **Tools/Libraries**: Pandas, Seaborn, Matplotlib, Plotly
 
 ---
+## 🚀 How to Run Locally
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/uuuMEE888/Prodigy-Infotech-TASK.git
+2. Navigate to the project directory
+   ```bash
+   cd Prodigy-Infotech-TASK
+3. Install the required libraries
+   ```bash
+   pip install -r requirements.txt
+4. Run the Jupyter Notebooks
+   ```bash
+   jupyter notebook
 
 ## 🛠️ Tools & Technologies Used
 
@@ -93,7 +107,7 @@ Task-05: Traffic Accident Analysis & Visualization (US Accident Dataset)
 - Git & GitHub  
 
 ---
-## Datasets Used
+## 📂 Datasets Used
 
 - Titanic Dataset → Kaggle
 - World Population Dataset → World Bank
