@@ -103,6 +103,8 @@ Task-05: Traffic Accident Analysis & Visualization (US Accident Dataset)
 
 ## Contact 
 - Name : VAISHNAVI GUPTA
-- LinkedIn:
-- GitHub :
+- LinkedIn:www.linkedin.com/in/
+vaishnavi-gupta-b63255311
+- GitHub :https://github.com/uuuMEE888/Prodigy-Infotech-TASK.git
+      
 Feel free to connect for feedback, collaboration, or just to say hi! 😊
